@@ -1,0 +1,1 @@
+export default function Page(){return <div className="card mx-auto max-w-xl"><h1 className="text-2xl font-semibold">Verify your email</h1><p className="mt-2">Check your inbox and click the confirmation link before logging in.</p></div>}
