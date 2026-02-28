@@ -1,5 +1,3 @@
-export const runtime = "nodejs";
-
 import { randomUUID } from "crypto";
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
